@@ -6,9 +6,28 @@
     <description>Recent content in Tags on A blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 21 Dec 2019 17:40:39 +0100</lastBuildDate>
     
 	<atom:link href="https://kimsaabyepedersen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tagA</title>
+      <link>https://kimsaabyepedersen.github.io/tags/taga/</link>
+      <pubDate>Sat, 21 Dec 2019 17:40:39 +0100</pubDate>
+      
+      <guid>https://kimsaabyepedersen.github.io/tags/taga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tagB</title>
+      <link>https://kimsaabyepedersen.github.io/tags/tagb/</link>
+      <pubDate>Sat, 21 Dec 2019 17:40:39 +0100</pubDate>
+      
+      <guid>https://kimsaabyepedersen.github.io/tags/tagb/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
